@@ -56,3 +56,6 @@ breakfastElement.addEventListener("click", () => BreakfastClicked())
 
 let lunchElement = document.getElementById("lunch")
 lunchElement.addEventListener("click", () => LunchClicked())
+
+// making a small change comment
+
